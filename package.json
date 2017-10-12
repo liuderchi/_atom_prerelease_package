@@ -1,5 +1,5 @@
 {
-  "name": "test-ascii-art",
+  "name": "_atom_prerelease_package",
   "version": "0.3.1",
   "description": "Atom-IDE support for YAML language",
   "main": "src/main.js",
@@ -7,7 +7,7 @@
     "lint": "eslint src/",
     "test": "npm run lint"
   },
-  "repository": "https://github.com/liuderchi/test-ascii-art.git",
+  "repository": "https://github.com/liuderchi/_atom_prerelease_package.git",
   "keywords": [
     "yaml",
     "yaml-parsing",
@@ -18,9 +18,9 @@
   "author": "Te-Chi Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuderchi/test-ascii-art/issues"
+    "url": "https://github.com/liuderchi/_atom_prerelease_package/issues"
   },
-  "homepage": "https://github.com/liuderchi/test-ascii-art#readme",
+  "homepage": "https://github.com/liuderchi/_atom_prerelease_package#readme",
   "devDependencies": {
     "eslint": "^4.7.1"
   },
