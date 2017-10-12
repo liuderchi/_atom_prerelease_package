@@ -1,5 +1,5 @@
 {
-  "name": "ide-yaml",
+  "name": "test-ascii-art",
   "version": "0.3.1",
   "description": "Atom-IDE support for YAML language",
   "main": "src/main.js",
@@ -7,7 +7,7 @@
     "lint": "eslint src/",
     "test": "npm run lint"
   },
-  "repository": "https://github.com/liuderchi/ide-yaml.git",
+  "repository": "https://github.com/liuderchi/test-ascii-art.git",
   "keywords": [
     "yaml",
     "yaml-parsing",
@@ -18,9 +18,9 @@
   "author": "Te-Chi Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuderchi/ide-yaml/issues"
+    "url": "https://github.com/liuderchi/test-ascii-art/issues"
   },
-  "homepage": "https://github.com/liuderchi/ide-yaml#readme",
+  "homepage": "https://github.com/liuderchi/test-ascii-art#readme",
   "devDependencies": {
     "eslint": "^4.7.1"
   },
