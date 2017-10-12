@@ -1,6 +1,6 @@
 {
   "name": "liuderchi-prerelease",
-  "version": "0.0.0",
+  "version": "0.3.2",
   "description": "Atom-IDE support for YAML language",
   "main": "src/main.js",
   "scripts": {
