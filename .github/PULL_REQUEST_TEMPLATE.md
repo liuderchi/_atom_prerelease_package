@@ -1,4 +1,4 @@
-This PR/Translation is about #ISSUE_NUMBER.
+This PR/Translation is about #{{ number }}.
 
 **files translated**:
   - [ ] `def/--LOCALE-CODE--/about.cson`
