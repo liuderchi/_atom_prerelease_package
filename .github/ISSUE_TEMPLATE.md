@@ -1,4 +1,4 @@
-Please help translate: .
+Please help translate: {{ withDefault n 12}}.
 
 locale code: `ENTER_LOCALE_HERE`
 [locale code table](http://www.science.co.il/language/Codes.php)
