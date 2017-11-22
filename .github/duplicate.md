@@ -1,1 +1,1 @@
-This is duplicate of #{{ n }}.
+This is duplicate of #{{ num }}.
