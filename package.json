@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/liuderchi/_atom_prerelease_package#readme",
   "devDependencies": {
-    "eslint": "^4.7.1"
+    "eslint": "^4.18.2"
   },
   "dependencies": {
     "atom-languageclient": "^0.6.4",
